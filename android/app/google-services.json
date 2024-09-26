@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803876979929",
+    "project_id": "jazakallah-v2",
+    "storage_bucket": "jazakallah-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803876979929:android:beaaa33a834e7cafaf2ac8",
+        "android_client_info": {
+          "package_name": "com.netrocreative.jazakallah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCteEDgJrzzPBb4AjjbMCrMh3cgOZvYndo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
